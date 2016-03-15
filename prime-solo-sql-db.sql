@@ -10,4 +10,8 @@
 
 —- 6. the three lowest balances in from lowest to highest are dallas, ora, and anthony
 
-—- 7.
+—- 7. users with balances over $100 are shawn, cherise, and travis
+
+—- 8. added tommy from st. louis park with 1006.99 balance
+
+—- 9. travis was deleted
